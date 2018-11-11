@@ -1,0 +1,131 @@
+.make-red {
+	color: red !important;
+}
+
+.increase-size {
+	font-size: 30px;
+}
+
+.backcolor {
+	background-color:black;
+	color: white;
+
+}
+.navwhite {
+	background-color: #5b5b5b;
+}
+.hero { 
+  background: url(https://images.unsplash.com/photo-1517953377824-516f2dca803b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9c62039eb3266c3b31c768baa2bb9a91&w=1000&q=80);  no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 250px;
+  text-align: left;
+  padding-top: 100px;
+  font-size: 100px;
+  color: #FFFFFF;
+  text-shadow: 3px 2px #a2bac1;
+  background-position: 0px -150px;
+}
+
+.title-con {
+	background-color: transparent;
+	display: inline-grid;
+	margin-top: 30px;
+	font-family: 'Permanent Marker', cursive;
+
+}
+
+.title {
+	margin: 12px;
+	}
+
+.hero1 { 
+  background: url(https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/aventador/aventador-coupe/left.jpg);  no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 250px;
+  text-align: left;
+  padding-top: 100px;
+  color: #FFFFFF;
+  text-shadow: 3px 2px #ff0a0a;
+  background-position: 0px -125px; 
+}
+
+.hero2 { 
+  background: url(http://www.johnslyngcareers.com/uploads/images/image/audi-r8-spyder-2015-matte-black.jpg);  no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 250px;
+  text-align: left;
+  padding-top: 100px;
+  font-size: 50px;
+  color: #FFFFFF;
+  text-shadow: 3px 2px #8c8989;
+  background-position: 0px -230px; 
+  }
+
+.imgfit {
+	width: 100%;
+}
+
+.margin-img
+{
+	margin-top: 51px;
+}
+
+.margin-txt {
+	padding-top: : 30px;
+	margin-top: 30px;
+}
+
+.fontsize {
+	font-size: 80px;
+}
+.textstyle {
+	font-family: 'Kodchasan', sans-serif;
+}
+.colourwriting {
+	color: white !important;
+}
+
+.hero3 { 
+  background: url(http://4.bp.blogspot.com/-ahtUHq5RY4Y/VJgxFLP_FPI/AAAAAAAAAYI/h2Kry6sx3yE/s1600/Ferari-458-%2BSpecial-And-%2BHuracan-By-Marcel-Lech-07.jpg);  no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 250px;
+  text-align: left;
+  padding-top: 100px;
+  font-size: 50px;
+  color: #FFFFFF;
+  text-shadow: 3px 2px #f7de00;
+  background-position: 0px -300px; 
+  }
+
+  .parallax {
+    /* The image used */
+    background-image: url("http://4.bp.blogspot.com/-ahtUHq5RY4Y/VJgxFLP_FPI/AAAAAAAAAYI/h2Kry6sx3yE/s1600/Ferari-458-%2BSpecial-And-%2BHuracan-By-Marcel-Lech-07.jpg");
+
+    /* Set a specific height */
+    min-height: 250px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      background-position: 0px -300px; 
+      font-size: 50px;
+  color: #FFFFFF;
+  text-shadow: 3px 2px #f7de00;
+  background-position: 0px -300px;
+  padding-top: 180px;
+
+}
